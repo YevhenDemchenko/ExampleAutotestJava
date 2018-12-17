@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-17T11:10:29</date>
+  <millis>1545037829575</millis>
+  <sequence>0</sequence>
+  <level>ALL</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+</record>
+<record>
+  <date>2018-12-17T11:10:32</date>
+  <millis>1545037832174</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Open the main page of the site</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:32</date>
+  <millis>1545037832460</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the price of products in the section "Популярные товары" is indicated in accordance with the established currency in the site header (USD, EUR, UAH).</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:32</date>
+  <millis>1545037832915</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Сlicking on an item</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:34</date>
+  <millis>1545037834764</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Сlicking on an item</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:34</date>
+  <millis>1545037834766</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: "Currency type of products changed to USD in header. Verified"</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:35</date>
+  <millis>1545037835064</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Clearing the field</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:35</date>
+  <millis>1545037835294</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text input "dress."</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:36</date>
+  <millis>1545037836455</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>clicking on an item</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:36</date>
+  <millis>1545037836457</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: "Search is performed in the catalog by the  “dress.” word"</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:36</date>
+  <millis>1545037836648</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the "Результаты поиска" page contains the inscription "Товаров: x", where x is the number of actually found products.</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:36</date>
+  <millis>1545037836775</millis>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the price of all displayed results is displayed in dollars.</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:37</date>
+  <millis>1545037837140</millis>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Сlicking on an item</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:37</date>
+  <millis>1545037837538</millis>
+  <sequence>13</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Сlicking on an item</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:37</date>
+  <millis>1545037837540</millis>
+  <sequence>14</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: "The High to Low price sorting method is installed"</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:37</date>
+  <millis>1545037837848</millis>
+  <sequence>15</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the products are sorted by price, with some products may be discounted, and the price without discount is used when sorting.</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:38</date>
+  <millis>1545037838440</millis>
+  <sequence>16</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the products with a discount have a percentage discount with the price before and after the discount.</message>
+</record>
+<record>
+  <date>2018-12-17T11:10:38</date>
+  <millis>1545037838810</millis>
+  <sequence>17</sequence>
+  <level>INFO</level>
+  <class>QATestLab.TestPrestashopautomation.Tests</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Text output: Check that the price before and after the discount coincides with the specified size of the discount.</message>
+</record>
